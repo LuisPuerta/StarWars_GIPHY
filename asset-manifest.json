@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarWars_GIPHY/static/css/main.10d1c2a6.css",
+    "main.js": "/StarWars_GIPHY/static/js/main.44349ef3.js",
+    "static/media/star-wars-backgrounds-25.jpg": "/StarWars_GIPHY/static/media/star-wars-backgrounds-25.b211fc0645e20fb74453.jpg",
+    "static/media/Starjhol.ttf": "/StarWars_GIPHY/static/media/Starjhol.c247ee6825d52f9d0862.ttf",
+    "index.html": "/StarWars_GIPHY/index.html",
+    "main.10d1c2a6.css.map": "/StarWars_GIPHY/static/css/main.10d1c2a6.css.map",
+    "main.44349ef3.js.map": "/StarWars_GIPHY/static/js/main.44349ef3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d1c2a6.css",
+    "static/js/main.44349ef3.js"
+  ]
+}
